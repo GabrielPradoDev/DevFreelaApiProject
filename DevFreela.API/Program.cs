@@ -5,6 +5,7 @@ using DevFreela.API.Services;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+// teste commit gabriel
 
 builder.Services.Configure<FreelanceTotalCostConfig>(
     builder.Configuration.GetSection("FreelanceTotalCostConfig")
