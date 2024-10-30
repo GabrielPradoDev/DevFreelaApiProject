@@ -1,6 +1,6 @@
-﻿using DevFreela.API.Entities;
+﻿using DevFreela.Core.Entities;
 
-namespace DevFreela.API.Enum
+namespace DevFreela.Core.Enum
 {
     public enum ProjectsStatusEnum 
     {
